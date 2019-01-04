@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A3909GLYTR-T
+D Dual Full Bridge Motor Driver
+K
+F http://www.allegromicro.com/~/media/Files/Datasheets/A3909-Datasheet.ashx?la=en
+$ENDCMP
+#
+#End Doc Library
