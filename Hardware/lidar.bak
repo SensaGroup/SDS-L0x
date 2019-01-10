@@ -634,9 +634,9 @@ F 3 "" H 7050 1800 50  0001 C CNN
 $EndComp
 Text GLabel 2950 1500 2    50   Input ~ 0
 SERVO_1
-Text GLabel 2950 3200 2    50   Input ~ 0
-SENSOR_1
 Text GLabel 2950 3300 2    50   Input ~ 0
+SENSOR_1
+Text GLabel 2950 3200 2    50   Input ~ 0
 SENSOR_2
 $Comp
 L Connector_Generic:Conn_01x03 J1

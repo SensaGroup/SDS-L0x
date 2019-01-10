@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# A3909GLYTR-T-A3909GLYTR-T
+#
+DEF A3909GLYTR-T-A3909GLYTR-T IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "A3909GLYTR-T-A3909GLYTR-T" 1050 200 50 H V L CNN
+F2 "SOP50P488X115-11N" 1050 100 50 H I L CNN
+F3 "http://www.allegromicro.com/~/media/Files/Datasheets/A3909-Datasheet.ashx?la=en" 1050 0 50 H I L CNN
+F4 "Dual Full Bridge Motor Driver" 1050 -100 50 H I L CNN "Description"
+F5 "1.15" 1050 -200 50 H I L CNN "Height"
+F6 "Allegro Microsystems" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "A3909GLYTR-T" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "8660798P" 1050 -500 50 H I L CNN "RS Part Number"
+F9 "http://uk.rs-online.com/web/p/products/8660798P" 1050 -600 50 H I L CNN "RS Price/Stock"
+F10 "8660798P" 1050 -700 50 H I L CNN "Mouser Part Number"
+F11 "http://uk.rs-online.com/web/p/products/8660798P" 1050 -800 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -700 200 -700 200 100 N
+X IN1 1 0 0 200 R 50 50 0 0 B
+X OUT1 10 1200 0 200 L 50 50 0 0 B
+X EP 11 600 -900 200 U 50 50 0 0 B
+X IN2 2 0 -100 200 R 50 50 0 0 B
+X VBB 3 0 -200 200 R 50 50 0 0 B
+X IN3 4 0 -300 200 R 50 50 0 0 B
+X IN4 5 0 -400 200 R 50 50 0 0 B
+X OUT4 6 1200 -400 200 L 50 50 0 0 B
+X OUT3 7 1200 -300 200 L 50 50 0 0 B
+X GND 8 1200 -200 200 L 50 50 0 0 B
+X OUT2 9 1200 -100 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+#End Library
